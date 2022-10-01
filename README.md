@@ -1,7 +1,7 @@
 Autoex
 ------
 
-### Documentation
+### Descripcion
 
 Este programa sirve para ejecutar uno o varios comandos al realizarse cambios en un archivo especifico
 
