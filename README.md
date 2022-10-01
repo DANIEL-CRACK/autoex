@@ -10,7 +10,13 @@ Version: 1.0
 
 ## Compilar codigo fuente
 
-```sh
-gcc main.c -o autoex -> Para linux
-gcc main.c -o autoex.exe -> Para windows
+```python
+gcc main.c -o autoex #Para linux
+gcc main.c -o autoex.exe #Para windows
+```
+## Instalar globalmente en el sistema
+
+```python
+sudo cp autoex /bin #Para linux
+
 ```
