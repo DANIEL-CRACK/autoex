@@ -1,10 +1,10 @@
 Autoex
 ------
 
-Este programa sirve para ejecutar uno o varios comandos al realizarse cambios en un archivo especifico
+<p>Este programa sirve para ejecutar uno o varios comandos al realizarse cambios en un archivo especifico
 
 Creado por Daniel Andino Camacho 
-hellotecnologic@gmail.com
+hellotecnologic@gmail.com</p>
 
 Version: 1.0
 
