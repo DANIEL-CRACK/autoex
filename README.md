@@ -10,7 +10,7 @@ Version: 1.0
 
 ## Compilar codigo fuente
 
-```bash
+```sh
 gcc main.c -o autoex -> Para linux
 gcc main.c -o autoex.exe -> Para windows
 ```
