@@ -10,13 +10,13 @@ Version: 1.0
 
 ## Compilar codigo fuente
 
-```python
+```zsh
 gcc main.c -o autoex #Para linux
 gcc main.c -o autoex.exe #Para windows
 ```
 ## Instalar globalmente en el sistema
 
-```python
+```zsh
 sudo cp autoex /bin #Para linux
-
+setx path "%path%;Aqui ubicacion del programa" #Para windows
 ```
