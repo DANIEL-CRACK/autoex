@@ -8,13 +8,13 @@ hellotecnologic@gmail.com
 
 Version: 1.0
 
-## Compilar codigo fuente
+### Compilar codigo fuente
 
 ```zsh
 gcc main.c -o autoex #Para linux
 gcc main.c -o autoex.exe #Para windows
 ```
-## Instalar globalmente en el sistema
+### Instalar globalmente en el sistema
 
 ```zsh
 sudo cp autoex /bin #Para linux
